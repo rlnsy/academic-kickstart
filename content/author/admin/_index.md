@@ -43,10 +43,10 @@ user_groups = []
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-#[[social]]
-#  icon = "envelope"
-#  icon_pack = "fas"
-#  link = "#contact"  # For a direct email link, use "mailto:test@example.or".
+[[social]]
+  icon = "paper-plane"
+  icon_pack = "fas"
+  link = "#contact"  # For a direct email link, use "mailto:test@example.or".
 
 #[[social]]
 #  icon = "twitter"
@@ -61,7 +61,7 @@ user_groups = []
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/rowlindsay"
+  link = "https://github.com/rlnsy"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,4 +71,4 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Pleased to meet you! My name's Rowan; I'm a student and aspiring professional living in Vancouver, British Columbia. I was born in a city called Calgary, but spent a good portion of my life in the tech-driven bustle of silicon valley before returning to the Great White North to learn about the things I love and ski world-famous slopes. When I'm not studying or enjoying the outdoors, I like to build software that does cool things with data and cutting-edge mathematical science. I have a passion for taking ideas and communicating them in ways that myself and others can understand, and have spent several years in education passing down useful skills.   

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Here is a sampling of the kinds of things I work on, including fully fledged apps, the occasional interesting school project, and projects that never really blossomed into anything major, but that I think are cool."
 
 [content]
   # Page type to display. E.g. project.
