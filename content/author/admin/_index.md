@@ -71,4 +71,4 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-Pleased to meet you! My name's Rowan; I'm a student and aspiring professional living in Vancouver, British Columbia. I was born in a city called Calgary, but spent a good portion of my life in the tech-driven bustle of silicon valley before returning to the Great White North to learn about the things I love and ski world-famous slopes. When I'm not studying or enjoying the outdoors, I like to build software that does cool things with data and cutting-edge mathematical science. I have a passion for taking ideas and communicating them in ways that myself and others can understand, and have spent several years in education passing down useful skills.   
+Pleased to meet you! My name's Rowan; I'm a student and aspiring professional living in Vancouver, British Columbia. I was born in Canada, but spent a good portion of my life in the tech-driven bustle of silicon valley before returning to the Great White North to learn about the things I love and ski world-famous slopes. When I'm not studying or enjoying the outdoors, I like to build software that does cool things with data and cutting-edge mathematical science.   
