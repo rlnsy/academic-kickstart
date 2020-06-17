@@ -3,9 +3,9 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "1950s"
+color_theme = "forest"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -50,8 +50,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rowan@rlindsay.me"
-phone = "(778) 320-6852"
+email = "rowdl22@students.cs.ubc.ca"
+phone = "(650) 808-0657"
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
